@@ -6,7 +6,8 @@
 
   .list-group-item{
     font-size: 22px;
-      color: red;
+    color: red;
+    background: #000;
 
   }
 
