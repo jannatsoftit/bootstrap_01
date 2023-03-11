@@ -174,7 +174,7 @@ document.write(`${a},${b},${c}: Maximum Number: ${x1}`);
 
 //Find Minimum number
 
-let p2 = parseInt(prompt("Enter the first number: "));
+/*let p2 = parseInt(prompt("Enter the first number: "));
 let q2 = parseInt(prompt("Enter the second number: "));
 let r2 = parseInt(prompt("Enter the third number: "));
 
@@ -192,7 +192,7 @@ let x2 = checkMinimumNumber(p2,q2,r2);
 
 document.write(`${p2},${q2},${r2}: Minimum Number: ${x2}`);
 
-
+*/
 
 
 
